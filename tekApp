@@ -2212,7 +2212,8 @@
   "ChatAI": {
     "ChatModule": "gemini-1.5-flash",
     "ChatKey": [
-      "AIzaSyDPS5w6NMBCtVYBYRrup6GKsA24sZR3lE0"
+      "AIzaSyDPS5w6NMBCtVYBYRrup6GKsA24sZR3lE0",
+      "AIzaSyB8AvL4c7YQXKmayy31MwuccQc7s7HlRPo"
     ]
   },
 
